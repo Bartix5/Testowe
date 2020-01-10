@@ -1,0 +1,11 @@
+C:\Users\Rent\Desktop\Moje\TestGithub\TestGithub\bin\Debug\netcoreapp3.1\TestGithub.exe
+C:\Users\Rent\Desktop\Moje\TestGithub\TestGithub\bin\Debug\netcoreapp3.1\TestGithub.deps.json
+C:\Users\Rent\Desktop\Moje\TestGithub\TestGithub\bin\Debug\netcoreapp3.1\TestGithub.runtimeconfig.json
+C:\Users\Rent\Desktop\Moje\TestGithub\TestGithub\bin\Debug\netcoreapp3.1\TestGithub.runtimeconfig.dev.json
+C:\Users\Rent\Desktop\Moje\TestGithub\TestGithub\bin\Debug\netcoreapp3.1\TestGithub.dll
+C:\Users\Rent\Desktop\Moje\TestGithub\TestGithub\bin\Debug\netcoreapp3.1\TestGithub.pdb
+C:\Users\Rent\Desktop\Moje\TestGithub\TestGithub\obj\Debug\netcoreapp3.1\TestGithub.csprojAssemblyReference.cache
+C:\Users\Rent\Desktop\Moje\TestGithub\TestGithub\obj\Debug\netcoreapp3.1\TestGithub.AssemblyInfoInputs.cache
+C:\Users\Rent\Desktop\Moje\TestGithub\TestGithub\obj\Debug\netcoreapp3.1\TestGithub.AssemblyInfo.cs
+C:\Users\Rent\Desktop\Moje\TestGithub\TestGithub\obj\Debug\netcoreapp3.1\TestGithub.dll
+C:\Users\Rent\Desktop\Moje\TestGithub\TestGithub\obj\Debug\netcoreapp3.1\TestGithub.pdb
